@@ -38,4 +38,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianlargo1234/adrianlargo1234/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/adrianlargo1234/adrianlargo1234/output/pacman-contribution-graph.svg">
 </picture>
+
 ###
