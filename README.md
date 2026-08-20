@@ -1,4 +1,4 @@
-<h6 data-importer="text" align="left"># Hi! I'm Adrián 👋<br><br>Welcome to my GitHub profile! I'm a computer science enthusiast in constant learning, dedicated to exploring how systems work, how to secure them, and how to automate the future.<br><br>## 👨‍💻 About me<br><br>* 🛡️ **Security Engineering & Cybersecurity:** I'm fascinated by understanding system vulnerabilities, securing networks, and tinkering with secure environments.<br>* 🧠 **Artificial Intelligence:** I explore the world of AI, from its inner workings to integrating it into practical projects (like local language models).<br>* 💻 **Programming:** I enjoy writing code and solving technical problems in my day-to-day.<br>* 🚀 **Active Projects:** I'm always working on various ideas and repositories to put my knowledge into practice and learn new technologies.<br><br>## 🛠️ Interests & Technologies<br><br>*(You can modify this list with the exact languages or tools you use)*<br>* **Systems & Security:** Linux, Networking, Scripting...<br>* **Development:** Python, Bash... <br>* **AI:** Automation, Local LLMs...<br><br>## 📈 My Projects<br><br>In my repositories below, you'll find code related to my security practice, AI experiments, and other useful tools I'm building. Feel free to explore and contribute!</h6>
+<h3 data-importer="text" align="left">Hi, I am Adrian. I am a computer science enthusiast interested in cybersecurity, artificial intelligence, and programming. I focus on understanding system vulnerabilities, exploring local AI models, and writing code to solve technical problems. My main tools are Linux, Python, Bash, and networking.</h3>
 
 ###
 
@@ -33,10 +33,25 @@
 
 ###
 
+<br clear="both">
+
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianlargo1234/adrianlargo1234/output/pacman-contribution-graph.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianlargo1234/adrianlargo1234/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/adrianlargo1234/adrianlargo1234/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
