@@ -33,9 +33,9 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=adrianlargo1234&show_icons=true&v=1" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianlargo1234&theme=github" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlargo1234&layout=compact&v=1" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianlargo1234&theme=github" alt="Top Languages" />
 
 ###
 
