@@ -33,9 +33,9 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianlargo1234&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=adrianlargo1234&show_icons=true&v=1" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlargo1234&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlargo1234&layout=compact&v=1" alt="Top Languages" />
 
 ###
 
